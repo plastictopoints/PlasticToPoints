@@ -9,7 +9,6 @@ const FOOTER_LINKS = {
   ],
   Company: [
     { label: 'About Us', href: '/about' },
-    { label: 'Impact', href: '/impact' },
     { label: 'Contact', href: '/contact' },
   ],
   Resources: [
