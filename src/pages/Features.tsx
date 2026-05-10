@@ -80,15 +80,15 @@ export default function Features() {
               <p className="text-xl font-black uppercase tracking-tight mb-12 max-w-md">
                 Join 50,000+ users worldwide who are turning daily waste into real value.
               </p>
-              <button className="bg-charcoal text-white px-12 py-6 rounded-3xl font-black uppercase tracking-widest hover:scale-105 transition-transform shadow-2xl">
+              <a href="/app-release.apk" download className="bg-charcoal text-white px-12 py-6 rounded-3xl font-black uppercase tracking-widest hover:scale-105 transition-transform shadow-2xl inline-block">
                 Get the App
-              </button>
+              </a>
             </div>
             <div className="relative">
               {/* Image replaced with your mock1.png */}
               <div className="bg-white rounded-[3rem] aspect-square rotate-6 shadow-2xl overflow-hidden border-[12px] border-charcoal/5">
                 <img 
-                  src="/mock1.png" 
+                  src="/mock3.png" 
                   alt="PlasticToPoints App Mockup" 
                   className="w-full h-full object-cover brightness-105"
                   referrerPolicy="no-referrer"

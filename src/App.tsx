@@ -13,7 +13,6 @@ import Contact from './pages/Contact';
 import Terms from './pages/Terms';
 import Privacy from './pages/Privacy';
 import Admin from './pages/Admin';
-import Impact from './pages/Impact';
 import Rewards from './pages/Rewards';
 import Blog from './pages/Blog';
 
@@ -53,7 +52,6 @@ export default function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/terms" element={<Terms />} />
           <Route path="/privacy" element={<Privacy />} />
-          <Route path="/impact" element={<Impact />} />
           <Route path="/rewards" element={<Rewards />} />
           <Route path="/blog" element={<Blog />} />
           <Route path="/king" element={<Admin />} />
