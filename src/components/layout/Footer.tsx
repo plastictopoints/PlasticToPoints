@@ -4,7 +4,6 @@ import { Facebook, Instagram, Linkedin, Leaf } from 'lucide-react';
 const FOOTER_LINKS = {
   Product: [
     { label: 'Features', href: '/features' },
-    { label: 'Download App', href: '#' },
     { label: 'Rewards', href: '/rewards' },
   ],
   Company: [
