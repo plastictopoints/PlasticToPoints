@@ -60,7 +60,6 @@ PlasticToPoints is a high-end, minimalist environmental tech platform designed t
    ```bash
    npm run dev
    ```
-
 ---
 
 ## 🌐 DEPLOYMENT
