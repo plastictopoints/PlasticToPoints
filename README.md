@@ -70,4 +70,4 @@ See the deployment guide provided in the project logs for step-by-step instructi
 ---
 
 ## 🛡️ LICENSE
-Part of the **TerraSync Movement**. All rights reserved 2026.
+Part of the **TerraSync**. All rights reserved 2026.
